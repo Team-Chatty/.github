@@ -1,16 +1,23 @@
-<h4 align='center'> 큐티 채티 프리티 </h4>
 
-<h1 align='center'> Chatty </h1>
+# 💬 Chatty
+큐티~ 채티~ 프리티~
 
-<h3 align='center'> 💬 </h3>
+## 🤔 Overview
+## 🛠️ Architecture
 
-&nbsp;  
+🎨 **Front-End**
+- NextJS
+  
+⚙️ **Back-End**
+- Spring
+- PostgreSQL
+  
+🤖 **ML**
+- LangChain
+- FastAPI
 
-# Overview
-# Architecture
-
-
-# Team
+## 📖 Documentation
+## 🚀 Team
 
 <div align='center'>
   
