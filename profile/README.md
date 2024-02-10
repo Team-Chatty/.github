@@ -1,4 +1,4 @@
-<h4 align='center'> 24-1 KMUCS 캡스톤 디자인 </h4>
+<h4 align='center'> 큐티 채티 프리티 </h4>
 
 <h1 align='center'> Chatty </h1>
 
