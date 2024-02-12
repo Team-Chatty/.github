@@ -1,11 +1,11 @@
-# 🚀 Team Chatty
+<h1 align='center'> 🚀 Team Chatty 🚀 </h1>
 
 <div align='center'>
   
 <table>
     <thead>
         <tr>
-            <th colspan="5"> Team Chatty </th>
+            <th colspan="5"> 큐티 채티 프리티 😋 </th>
         </tr>
     </thead>
     <tbody>
