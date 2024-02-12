@@ -1,23 +1,4 @@
-
-# 💬 Chatty
-큐티~ 채티~ 프리티~
-
-## 🤔 Overview
-## 🛠️ Architecture
-
-🎨 **Front-End**
-- NextJS
-  
-⚙️ **Back-End**
-- Spring
-- PostgreSQL
-  
-🤖 **ML**
-- LangChain
-- FastAPI
-
-## 📖 Documentation
-## 🚀 Team
+# 🚀 Team Chatty
 
 <div align='center'>
   
