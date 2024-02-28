@@ -45,4 +45,4 @@
 
 ---
 
-2024-1 KMUCS 캡스톤디자인 | Copyright 2024. `Chatty` All rights reserved.
+2024-1 KMUCS 캡스톤디자인 | Copyright 2024. `WeQuiz` All rights reserved.
