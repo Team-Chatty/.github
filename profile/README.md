@@ -1,11 +1,17 @@
-<h1 align='center'> 🚀 Team WeQuiz 🚀 </h1>
-
 <div align='center'>
+<h3>Shall</h3>
+
+<h3>.</h3>
+<h3>.</h3>
+<h3>.</h3>
+<img src="https://github.com/Team-WeQuiz/.github/blob/main/profile/wequiz.PNG">
+
+<p>with</p>
   
 <table>
     <thead>
-        <tr>
-            <th colspan="5"> Shall We Quiz ? </th>
+        <tr></tr>
+            <th colspan="5"> 🚀 Team WeQuiz 🚀 </th>
         </tr>
     </thead>
     <tbody>
